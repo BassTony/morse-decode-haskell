@@ -1,6 +1,6 @@
 module Main where
 
-import MorseReader (readMorseWAVEfile)
+import           MorseReader (readMorseWAVEfile)
 
 main :: IO ()
 main = do
